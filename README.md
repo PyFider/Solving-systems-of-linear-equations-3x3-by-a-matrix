@@ -1,0 +1,1 @@
+Let's say you have a system lineage equations 3x3, then you can wrote her in form of matrix's in my programm( in all strings last cells - b1,  b2,  b3) and after my programm search for you she wroten result on new window
