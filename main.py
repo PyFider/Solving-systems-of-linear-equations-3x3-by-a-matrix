@@ -6,7 +6,6 @@ w.title("Enter of information")
 w.geometry("523x500")
 w.iconbitmap(r"icon.ico")
 w.configure(background="#012404")
-w.resizable(False, False)
 
 # Set image-background for main window
 
